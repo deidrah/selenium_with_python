@@ -1,0 +1,5 @@
+{
+  "browser": "firefox",
+  "selenium_grid_url": "http://skleptest.pl",
+  "wait_time": 10
+}
